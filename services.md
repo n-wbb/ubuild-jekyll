@@ -20,29 +20,12 @@ page_sections:
   cta:
     url: ''
     button_text: Contact Us
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: BSW Cleaning
-  content: "<br>BSW is a Private Limited Company established in 2001 that provides
-    a comprehensive range of Contract Cleaning. Our mission is to be the best and
-    the most successful provider of Contract Cleaning to each individual client we
-    work with. We achieve our aims by providing excellent standards of service on
-    terms which allow us to well reward our employees and to provide a sound base
-    for continuing growth in the future.<br><strong>Established in 2001, BSW Contractors
-    offer complete cleaning solution for construction across the UK.</strong>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: ''
-  content: "<br>BSW is a Private Limited Company established in 2001 that provides
-    a comprehensive range of Contract Cleaning. Our mission is to be the best and
-    the most successful provider of Contract Cleaning to each individual client we
-    work with. We achieve our aims by providing excellent standards of service on
-    terms which allow us to well reward our employees and to provide a sound base
-    for continuing growth in the future.<br><br><strong>Established in 2001, BSW Contractors
-    offer complete cleaning solution for construction across the UK.</strong>"
+  headline: Builders Clean
+  content: TBC
   media:
     alt_text: uBuild Blocks Mock-Up
     image: ''
@@ -50,10 +33,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Office Cleaning </strong>"
+  content: TBC Office Cleaning
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks

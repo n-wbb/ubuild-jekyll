@@ -31,31 +31,21 @@ page_sections:
     terms which allow us to well reward our employees and to provide a sound base
     for continuing growth in the future.<br><strong>Established in 2001, BSW Contractors
     offer complete cleaning solution for construction across the UK.</strong>"
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: ''
+  headline: ''
+  content: "<br>BSW is a Private Limited Company established in 2001 that provides
+    a comprehensive range of Contract Cleaning. Our mission is to be the best and
+    the most successful provider of Contract Cleaning to each individual client we
+    work with. We achieve our aims by providing excellent standards of service on
+    terms which allow us to well reward our employees and to provide a sound base
+    for continuing growth in the future.<br><br><strong>Established in 2001, BSW Contractors
+    offer complete cleaning solution for construction across the UK.</strong>"
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+    image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right

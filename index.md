@@ -23,7 +23,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: responsive
-  headline: 16 Fully Responsive Design Blocks
+  headline: BSW Cleaning
   content: "<br>BSW is a Private Limited Company established in 2001 that provides
     a comprehensive range of Contract Cleaning. Our mission is to be the best and
     the most successful provider of Contract Cleaning to each individual client we

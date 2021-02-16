@@ -7,15 +7,30 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: Contact Us
+    link_text: Contact Us
   - link: About Us
     link_text: About Us
   - link: Services
     link_text: Services
   - link: Projects
     link_text: Projects
+  - link: Health & Safety
+    link_text: Health & Safety
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: ''
+    button_text: Contact Us
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: 16 Fully Responsive Design Blocks
+  content: "<br>BSW is a Private Limited Company established in 2001 that provides
+    a comprehensive range of Contract Cleaning. Our mission is to be the best and
+    the most successful provider of Contract Cleaning to each individual client we
+    work with. We achieve our aims by providing excellent standards of service on
+    terms which allow us to well reward our employees and to provide a sound base
+    for continuing growth in the future.<br><strong>Established in 2001, BSW Contractors
+    offer complete cleaning solution for construction across the UK.</strong>"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -52,19 +67,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

@@ -18,5 +18,3 @@ fields:
   name: email_recipient
   label: Email Recipient
   description: Form submissions will be sent to this email address.
-pages:
-- contact_us.md

@@ -8,6 +8,5 @@ navigation:
   link_text: Services
 - link: AboutUs
   link_text: About Us
-published: false
 
 ---
